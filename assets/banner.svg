@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Faceless Shorts banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#9f1239"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fde047"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="130" fill="#ffffff" fill-opacity="0.07"/>
+  <circle cx="980" cy="300" r="100" fill="#fde047" fill-opacity="0.12"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="70" y="118" font-size="66" font-weight="800" fill="#ffffff">Faceless Shorts</text>
+    <text x="72" y="168" font-size="26" fill="#fee2e2">Narrated shorts made fully in code, on your own computer</text>
+    <rect x="72" y="205" width="300" height="48" rx="24" fill="url(#chip)"/>
+    <text x="222" y="236" font-size="22" font-weight="700" fill="#1f2937" text-anchor="middle">Claude Skill · SKILL.md</text>
+    <rect x="388" y="205" width="200" height="48" rx="24" fill="#ffffff" fill-opacity="0.15"/>
+    <text x="488" y="236" font-size="22" font-weight="600" fill="#ffffff" text-anchor="middle">$0 · no AI video</text>
+    <text x="72" y="290" font-size="20" fill="#fecdd3">by Mohsin Raza</text>
+  </g>
+  <g transform="translate(900 40)">
+    <rect x="0" y="0" width="190" height="240" rx="26" fill="#111827" stroke="#fde047" stroke-width="4"/>
+    <rect x="14" y="16" width="162" height="208" rx="16" fill="#1e3a8a"/>
+    <circle cx="95" cy="90" r="30" fill="#fde047"/>
+    <rect x="62" y="130" width="66" height="60" rx="14" fill="#fde047"/>
+    <rect x="30" y="180" width="130" height="24" rx="12" fill="#ffffff"/>
+    <text x="95" y="198" font-size="16" font-weight="800" fill="#0f172a" text-anchor="middle">IF YOU SWALLOW</text>
+  </g>
+</svg>
