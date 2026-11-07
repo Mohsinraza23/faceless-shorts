@@ -94,8 +94,8 @@ Claude also checks a **contact sheet** of the whole video before you see it, the
 You need: Node.js 22+, ffmpeg, Google Chrome and Python 3.10+. Claude installs what is missing and downloads about 1 GB of voice and caption models, once.
 
 **Option 1: Claude.ai**
-1. Download the latest zip from the [Releases](https://github.com/Mohsinraza23/faceless-shorts/releases) page, or use this repo's download.
-2. In Claude's settings, open the skills section and upload the zip.
+1. On this repo's page, click **Code → Download ZIP**.
+2. In Claude's settings, open the skills section and upload that zip.
 
 **Option 2: Claude Code**
 1. Clone or download this repo into `~/.claude/skills/faceless-shorts/`.
@@ -146,7 +146,7 @@ Ideas, bug reports and pull requests are welcome. Open an issue first for big ch
 
 ## 👨‍💻 Author
 
-Made by **Mohsin Raza**, the lead teacher of AI at the AI Summer Camp and creator of the Code With Mohsin channel.
+Made by **Mohsin Raza**, creator of the Code With Mohsin channel.
 
 <p align="center">
   <a href="https://www.youtube.com/@CodewithMohsin1"><img src="https://img.shields.io/badge/YouTube-Code%20With%20Mohsin-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
