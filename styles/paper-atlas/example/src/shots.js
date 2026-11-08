@@ -102,7 +102,7 @@ export function buildShots() {
       nightPage(7); ctx.save(); ctx.globalAlpha = 0.3; ctx.fillStyle = '#E0782E'; ctx.fillRect(-300, -300, W + 600, 1500); ctx.restore();
       stPauls(540, 1450, 1.4); cut(P_rr(-300, 1450, W + 600, 800, 0), '#4A3A2E', { shadow: 0, edge: 0 });
       if (lt > sp) for (let i = 0; i < 5; i++) flame(300 + i * 120, 1450 - 320 - (i === 2 ? 200 : 0), eob(seg(lt, sp + i * 0.08, sp + i * 0.08 + 0.3)) * 0.9, t, i);
-      K.slip('13,200 HOUSES', 540, 330, lt > h1 ? eob(seg(lt, h1, h1 + 0.3)) : 0, -0.03);
+      K.slip('13,000+ HOUSES', 540, 330, lt > h1 ? eob(seg(lt, h1, h1 + 0.3)) : 0, -0.03);
       K.slip('87 CHURCHES', 540, 500, lt > c1 ? eob(seg(lt, c1, c1 + 0.3)) : 0, 0.03);
     } });
     cue(st, 'whoosh'); cue(st + h1, 'pop'); cue(st + c1, 'pop'); cue(st + sp, 'thud'); }
